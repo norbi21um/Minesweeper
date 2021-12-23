@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MinesweeperHazi</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_fame">HallOfFameActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="smiley">😃</string>
+    <string name="flag">🚩</string>
+    <string name="bomb">💣</string>
+    <string name="default_count">000</string>
+    <string name="hall_of_fame">Hall Of Fame</string>
+    <string name="rank">Rank</string>
+    <string name="score">Score</string>
+    <string name="minesweeper">Minesweeper</string>
+    <string name="play">Play</string>
+    <string name="settings">Settings</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="current_mode">Current Mode:</string>
+    <string name="easy_mode">Easy mode</string>
+    <string name="medium_mode">Medium mode</string>
+    <string name="hard_mode">Hard Mode</string>
+    <string name="name">Name</string>
+    <string name="egy_n_v">Egy név</string>
+    <string name="_123123">123123</string>
+</resources>
