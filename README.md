@@ -3,7 +3,7 @@
 A klasszikus aknakereső játékot újra alkottam.
 
 Egy 10x10-es, véletlenül generált griden 3 módban lehet játszani a játékot: 
--Easy = 10 bomba
+<br>-Easy = 10 bomba
 -Medium = 20 bomba
 -Hard = 30 bomba
 
