@@ -4,8 +4,8 @@ A klasszikus aknakereső játékot újra alkottam.
 
 Egy 10x10-es, véletlenül generált griden 3 módban lehet játszani a játékot: 
 <br>-Easy = 10 bomba
--Medium = 20 bomba
--Hard = 30 bomba
+<br>-Medium = 20 bomba
+<br>-Hard = 30 bomba
 
 Zászlókkal ki lehet jelölni a feltételezett bombák helyét, amik csak zászló módban felvehetők.
 
