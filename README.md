@@ -11,10 +11,10 @@ Zászlókkal ki lehet jelölni a feltételezett bombák helyét, amik csak zász
 
 Bomba felnyitás esetén, feltárja az egész pályát és egy Game Over feliratot jelenít meg.
 
-A játék megnyerése esetén felugrig egy Dialog Fragment, ahol ha megadja a játékos a nevét felkerül a "Hall of Fame", ahol a játékosok pontszám szerinti sorrenben jelennek meg.
+A játék megnyerése esetén felugrig egy Dialog Fragment, ahol ha megadja a játékos a nevét felkerül a "Hall of Fame"-re, ahol a játékosok pontszám szerinti sorrenben jelennek meg.
 A pontszám a játék módja és megfejtés időtartama alapján számítódik.
 
-A perzistens tároláshoz Room-ot használtam, az játék módját pedig ShardPreferencesben mentettem el.
+A perzistens tároláshoz Room-ot használtam, az játék módját pedig SharedPreferencesben mentettem el.
 
 
 ![Screenshot_1640243658](https://user-images.githubusercontent.com/22506745/147300133-4e39424d-3a3e-4817-9116-090627b63240.png)
