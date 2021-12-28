@@ -1,4 +1,4 @@
-# MinesweeperHazi
+# Minesweeper
 
 A klasszikus aknakereső játékot újra alkottam.
 
